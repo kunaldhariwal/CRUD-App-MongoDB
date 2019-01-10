@@ -2,15 +2,15 @@
 
 **you need to import following packages**
 
-go get github.com/gin-gonic/gin
+`go get github.com/gin-gonic/gin
 
-go get gopkg.in/mgo.v2
+ go get gopkg.in/mgo.v2
 
-go get gopkg.in/mgo.v2/bson
+'go get gopkg.in/mgo.v2/bson`
 
 **To run the server**
 
-go run server.go
+`go run server.go`
 
 
 **Commands**
