@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/kunal_dhariwal/CRUD-App-MongoDB/pkg/controllers"
+	"github.com/kunaldhariwal/CRUD-App-MongoDB/pkg/controllers"
 	"github.com/gin-gonic/gin"
 	"gopkg.in/mgo.v2"
 )
