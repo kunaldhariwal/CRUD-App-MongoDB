@@ -4,7 +4,7 @@ package controllers
 import (
 	"log"
 
-	"github.com/kunal_dhariwal/CRUD-App-MongoDB/pkg/models"
+	"github.com/kunaldhariwal/CRUD-App-MongoDB/pkg/models"
 	"github.com/gin-gonic/gin"
 	"gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"
